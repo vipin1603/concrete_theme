@@ -21,6 +21,7 @@ $displayThirdColumn = $blocks > 0 || $c->isEditMode();
 		</div>
 
 			
+<<<<<<< HEAD
           <div class="body">
 			<?php
 				$a = new Area('Gardening_Heading1');
@@ -66,6 +67,9 @@ $displayThirdColumn = $blocks > 0 || $c->isEditMode();
 				</li>
 			</ul>
 		</div>  
+=======
+            
+>>>>>>> 3c2db84b5bc025824e849125050e917008003434
             
             
 
